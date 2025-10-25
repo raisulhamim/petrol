@@ -1,0 +1,24 @@
+.supplier-section {
+    width: 1190px;
+    height: 216px;
+  padding: 78px 390px 100px 387px ;
+  background-color: white;
+}
+
+.title {
+  width: 280px;
+  height: 216px;
+  font-size: 48px;
+  font-weight: bold;
+  color: #000;
+  font-family: "Poppins", sans-serif;
+  line-height: 72px;
+}
+
+.text {
+  width: 680px;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  line-height: auto;
+  padding: 87px 0px 61px 178px;
+}
